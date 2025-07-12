@@ -1,0 +1,3132 @@
+[
+  {
+    "dia_mes": "01/01",
+    "descricao": [
+      "Ano-Novo",
+      "Confraternização Universal",
+      "Dia Mundial da Paz"
+    ]
+  },
+  {
+    "dia_mes": "02/01",
+    "descricao": [
+      "Dia de São Basílio Magno",
+      "Dia do Sanitarista",
+      "Dia Mundial dos Introvertidos",
+      "Dia do Confeiteiro"
+    ]
+  },
+  {
+    "dia_mes": "03/01",
+    "descricao": [
+      "Dia do Juiz de Menores"
+    ]
+  },
+  {
+    "dia_mes": "04/01",
+    "descricao": [
+      "Dia Mundial do Braille",
+      "Dia Nacional da Abreugrafia",
+      "Dia Nacional da Pessoa com Hemofilia"
+    ]
+  },
+  {
+    "dia_mes": "05/01",
+    "descricao": [
+      "Dia da Criação da 1ª Tipografia no Brasil",
+      "Dia de São Nepomuceno Neumann"
+    ]
+  },
+  {
+    "dia_mes": "06/01",
+    "descricao": [
+      "Dia de Reis",
+      "Dia Mundial do Astrólogo",
+      "Dia da Gratidão"
+    ]
+  },
+  {
+    "dia_mes": "07/01",
+    "descricao": [
+      "Dia do Leitor",
+      "Dia da Liberdade de Cultos"
+    ]
+  },
+  {
+    "dia_mes": "08/01",
+    "descricao": [
+      "Dia Nacional do Fotógrafo",
+      "Dia Nacional da Fotografia"
+    ]
+  },
+  {
+    "dia_mes": "09/01",
+    "descricao": [
+      "Dia do Astronauta",
+      "Dia do Fico"
+    ]
+  },
+  {
+    "dia_mes": "10/01",
+    "descricao": [
+      "Dia de São Gonçalo de Amarante"
+    ]
+  },
+  {
+    "dia_mes": "11/01",
+    "descricao": [
+      "Dia do Controle da Poluição por Agrotóxicos",
+      "Dia Internacional do Obrigado"
+    ]
+  },
+  {
+    "dia_mes": "12/01",
+    "descricao": [
+      "Dia do Empresário Contábil",
+      "Aniversário de Belém"
+    ]
+  },
+  {
+    "dia_mes": "13/01",
+    "descricao": [
+      "Dia de Santo Hilário de Poitiers",
+      "Dia Internacional do Leonismo"
+    ]
+  },
+  {
+    "dia_mes": "14/01",
+    "descricao": [
+      "Dia do Treinador de Futebol",
+      "Dia do Enfermo",
+      "Dia Internacional da Pipa",
+      "Dia Mundial da Lógica"
+    ]
+  },
+  {
+    "dia_mes": "15/01",
+    "descricao": [
+      "Dia dos Adultos",
+      "Dia Mundial do Compositor",
+      "Dia Nacional do Jogo Limpo e de Combate ao Doping",
+      "Dia de Santo Amaro"
+    ]
+  },
+  {
+    "dia_mes": "16/01",
+    "descricao": [
+      "Dia de São Marcelo",
+      "Dia do Cortador de Cana-de-açúcar"
+    ]
+  },
+  {
+    "dia_mes": "17/01",
+    "descricao": [
+      "Dia dos Tribunais de Contas do Brasil",
+      "Dia de Santo Antão"
+    ]
+  },
+  {
+    "dia_mes": "18/01",
+    "descricao": [
+      "Dia do Esteticista",
+      "Dia da Universidade",
+      "Dia Nacional do Krav Maga",
+      "Dia Internacional do Riso"
+    ]
+  },
+  {
+    "dia_mes": "19/01",
+    "descricao": [
+      "Dia do Cabeleireiro",
+      "Dia Mundial do Terapeuta Ocupacional",
+      "Dia de São Canuto",
+      "Dia do Passista",
+      "Dia Internacional do Queijo Quark"
+    ]
+  },
+  {
+    "dia_mes": "20/01",
+    "descricao": [
+      "Dia do Farmacêutico",
+      "Dia Nacional do Fusca",
+      "Dia Nacional da Parteira Tradicional",
+      "Dia de São Sebastião"
+    ]
+  },
+  {
+    "dia_mes": "21/01",
+    "descricao": [
+      "Dia Mundial da Religião",
+      "Dia Nacional de Combate à Intolerância Religiosa",
+      "Dia Internacional do Moletom"
+    ]
+  },
+  {
+    "dia_mes": "22/01",
+    "descricao": [
+      "Dia da Fundação de São Vicente (1532)"
+    ]
+  },
+  {
+    "dia_mes": "23/01",
+    "descricao": [
+      "Dia Internacional da Medicina Integrativa",
+      "Dia de Santo Ildefonso"
+    ]
+  },
+  {
+    "dia_mes": "24/01",
+    "descricao": [
+      "Dia Internacional da Educação",
+      "Dia Nacional dos Aposentados",
+      "Dia da Previdência Social",
+      "Dia Mundial da Cultura Africana e Afrodescendente"
+    ]
+  },
+  {
+    "dia_mes": "25/01",
+    "descricao": [
+      "Dia do Carteiro",
+      "Dia Nacional da Bossa Nova",
+      "Aniversário de São Paulo"
+    ]
+  },
+  {
+    "dia_mes": "26/01",
+    "descricao": [
+      "Dia da Gula",
+      "Dia de São Timóteo",
+      "Dia de São Tito",
+      "Dia Internacional das Aduanas",
+      "Dia Mundial da Educação Ambiental"
+    ]
+  },
+  {
+    "dia_mes": "27/01",
+    "descricao": [
+      "Dia Internacional em Memória das Vítimas do Holocausto",
+      "Dia dos Oradores",
+      "Dia Internacional do Conservador-Restaurador"
+    ]
+  },
+  {
+    "dia_mes": "28/01",
+    "descricao": [
+      "Dia do Comércio Exterior",
+      "Dia Internacional da Proteção de Dados",
+      "Dia do Portuário",
+      "Dia Nacional do Auditor-Fiscal do Trabalho",
+      "Dia Nacional de Combate ao Trabalho Escravo",
+      "Dia de São Tomás de Aquino",
+      "Dia Internacional do Lego"
+    ]
+  },
+  {
+    "dia_mes": "29/01",
+    "descricao": [
+      "Dia Nacional da Visibilidade Trans"
+    ]
+  },
+  {
+    "dia_mes": "30/01",
+    "descricao": [
+      "Dia da Saudade",
+      "Dia do Portuário",
+      "Dia do Quadrinho Nacional",
+      "Dia Mundial da Não Violência e Cultura de Paz"
+    ]
+  },
+  {
+    "dia_mes": "31/01",
+    "descricao": [
+      "Dia do Mágico",
+      "Dia do Engenheiro Ambiental",
+      "Dia Nacional das Reservas Particulares do Patrimônio Natural"
+    ]
+  },
+  {
+    "dia_mes": "01/02",
+    "descricao": [
+      "Dia do Publicitário",
+      "Dia do Tomate"
+    ]
+  },
+  {
+    "dia_mes": "02/02",
+    "descricao": [
+      "Dia de Iemanjá",
+      "Dia de Nossa Senhora dos Navegantes",
+      "Dia do Agente Fiscal",
+      "Dia Mundial das Zonas Úmidas"
+    ]
+  },
+  {
+    "dia_mes": "03/02",
+    "descricao": [
+      "Dia de São Brás",
+      "Dia da Navegação no Rio São Francisco"
+    ]
+  },
+  {
+    "dia_mes": "04/02",
+    "descricao": [
+      "Dia Mundial do Câncer",
+      "Dia do Amigo do Facebook",
+      "Dia Internacional da Fraternidade Humana"
+    ]
+  },
+  {
+    "dia_mes": "05/02",
+    "descricao": [
+      "Dia do Datiloscopista",
+      "Dia Nacional da Mamografia",
+      "Dia do Dermatologista",
+      "Dia Mundial da Nutella"
+    ]
+  },
+  {
+    "dia_mes": "06/02",
+    "descricao": [
+      "Dia do Agente de Defesa Ambiental",
+      "Dia Internacional da Tolerância Zero à Mutilação Genital Feminina"
+    ]
+  },
+  {
+    "dia_mes": "07/02",
+    "descricao": [
+      "Dia Nacional de Luta dos Povos Indígenas",
+      "Dia do Gráfico"
+    ]
+  },
+  {
+    "dia_mes": "08/02",
+    "descricao": [
+      "Dia do Magistério Militar"
+    ]
+  },
+  {
+    "dia_mes": "09/02",
+    "descricao": [
+      "Dia Mundial da Pizza",
+      "Dia do Zelador",
+      "Dia do Frevo em Pernambuco"
+    ]
+  },
+  {
+    "dia_mes": "10/02",
+    "descricao": [
+      "Dia do Atleta Profissional",
+      "Dia Mundial das Leguminosas",
+      "Dia Internacional da Epilepsia"
+    ]
+  },
+  {
+    "dia_mes": "11/02",
+    "descricao": [
+      "Dia Internacional das Mulheres e Meninas na Ciência",
+      "Dia Mundial do Enfermo",
+      "Dia do Zelador",
+      "Dia de Nossa Senhora de Lourdes"
+    ]
+  },
+  {
+    "dia_mes": "12/02",
+    "descricao": [
+      "Dia de Darwin"
+    ]
+  },
+  {
+    "dia_mes": "13/02",
+    "descricao": [
+      "Dia Mundial do Rádio",
+      "Dia do Serviço de Assistência Religiosa do Exército",
+      "Dia Internacional do Preservativo",
+      "Dia de Ter um Nome Diferente"
+    ]
+  },
+  {
+    "dia_mes": "14/02",
+    "descricao": [
+      "Dia de São Valentim",
+      "Dia Mundial do Amor",
+      "Dia Internacional da Doação de Livros",
+      "Dia do Botonista"
+    ]
+  },
+  {
+    "dia_mes": "15/02",
+    "descricao": [
+      "Dia Internacional do Câncer na Infância"
+    ]
+  },
+  {
+    "dia_mes": "16/02",
+    "descricao": [
+      "Dia do Repórter"
+    ]
+  },
+  {
+    "dia_mes": "17/02",
+    "descricao": [
+      "Dia Mundial do Gato"
+    ]
+  },
+  {
+    "dia_mes": "18/02",
+    "descricao": [
+      "Dia Internacional da Síndrome de Asperger"
+    ]
+  },
+  {
+    "dia_mes": "19/02",
+    "descricao": [
+      "Dia do Esportista",
+      "Dia de São Conrado",
+      "Dia Mundial da Baleia"
+    ]
+  },
+  {
+    "dia_mes": "20/02",
+    "descricao": [
+      "Dia Mundial da Justiça Social",
+      "Dia Nacional de Combate às Drogas e Alcoolismo"
+    ]
+  },
+  {
+    "dia_mes": "21/02",
+    "descricao": [
+      "Dia Nacional do Imigrante Italiano",
+      "Dia Internacional da Língua Materna"
+    ]
+  },
+  {
+    "dia_mes": "22/02",
+    "descricao": [
+      "Dia do Auxiliar de Serviços Gerais",
+      "Dia Internacional do Maçom",
+      "Dia Mundial da Margarita"
+    ]
+  },
+  {
+    "dia_mes": "23/02",
+    "descricao": [
+      "Dia Nacional do Movimento Municipalista Brasileiro",
+      "Dia Nacional do Rotary"
+    ]
+  },
+  {
+    "dia_mes": "24/02",
+    "descricao": [
+      "Dia da Promulgação da Primeira Constituição Republicana (1891)",
+      "Dia da Conquista do Voto Feminino no Brasil"
+    ]
+  },
+  {
+    "dia_mes": "25/02",
+    "descricao": [
+      "Dia da Criação do Ministério das Comunicações"
+    ]
+  },
+  {
+    "dia_mes": "26/02",
+    "descricao": [
+      "Dia do Comediante",
+      "Dia de Santo Alexandre",
+      "Dia de Contar um Conto de Fadas"
+    ]
+  },
+  {
+    "dia_mes": "27/02",
+    "descricao": [
+      "Dia Nacional do Livro Didático",
+      "Dia do Agente Fiscal da Receita Federal",
+      "Dia de São Leandro"
+    ]
+  },
+  {
+    "dia_mes": "28/02",
+    "descricao": [
+      "Dia da Ressaca",
+      "Dia Mundial das Doenças Raras",
+      "Dia Mundial de Combate a LER/DORT",
+      "Dia de São Romão e São Lupicino"
+    ]
+  },
+  {
+    "dia_mes": "29/02",
+    "descricao": [
+      "Dia Mundial das Doenças Raras (em anos bissextos)"
+    ]
+  },
+  {
+    "dia_mes": "01/03",
+    "descricao": [
+      "Dia do Turismo Ecológico",
+      "Dia Pan‑Americano de Turismo",
+      "Dia das Crianças Doentes",
+      "Dia Internacional da Proteção Civil",
+      "Dia Mundial de Zero Discriminação"
+    ]
+  },
+  {
+    "dia_mes": "02/03",
+    "descricao": [
+      "Dia Nacional do Turismo"
+    ]
+  },
+  {
+    "dia_mes": "03/03",
+    "descricao": [
+      "Dia Mundial da Vida Selvagem",
+      "Dia do Corpo de Intendentes da Marinha",
+      "Dia Nacional do Médico Otorrinolaringologista",
+      "Dia Mundial da Audição",
+      "Dia Mundial dos Defeitos do Nascimento"
+    ]
+  },
+  {
+    "dia_mes": "04/03",
+    "descricao": [
+      "Dia Mundial da Obesidade",
+      "Dia Mundial da Engenharia para o Desenvolvimento Sustentável",
+      "Dia Internacional de Conscientização sobre o HPV",
+      "Dia dos Soldadinhos de Brinquedo"
+    ]
+  },
+  {
+    "dia_mes": "05/03",
+    "descricao": [
+      "Dia do Filatelista Brasileiro",
+      "Dia Nacional da Música Clássica",
+      "Dia da Integração Cooperativista",
+      "Dia Internacional do Desarmamento e Conscientização sobre a Não Proliferação",
+      "Dia Mundial da Eficiência Energética"
+    ]
+  },
+  {
+    "dia_mes": "06/03",
+    "descricao": [
+      "Dia Internacional do Optometrista"
+    ]
+  },
+  {
+    "dia_mes": "07/03",
+    "descricao": [
+      "Dia Mundial da Oração",
+      "Dia Nacional da Advocacia Pública",
+      "Dia do Fuzileiro Naval",
+      "Dia do Paleontólogo"
+    ]
+  },
+  {
+    "dia_mes": "08/03",
+    "descricao": [
+      "Dia Internacional da Mulher"
+    ]
+  },
+  {
+    "dia_mes": "09/03",
+    "descricao": [
+      "Dia Internacional do DJ"
+    ]
+  },
+  {
+    "dia_mes": "10/03",
+    "descricao": [
+      "Dia do Telefone",
+      "Dia do Sogro",
+      "Dia Internacional da Peruca",
+      "Dia do Conservador",
+      "Dia Nacional de Combate ao Sedentarismo",
+      "Dia Internacional das Juízas",
+      "Dia do Super Mario"
+    ]
+  },
+  {
+    "dia_mes": "11/03",
+    "descricao": [
+      "Dia Internacional das Vítimas do Terrorismo",
+      "Dia Internacional do Encanamento"
+    ]
+  },
+  {
+    "dia_mes": "12/03",
+    "descricao": [
+      "Dia do Bibliotecário",
+      "Dia Mundial Contra a Cibercensura",
+      "Dia Internacional da Pochete"
+    ]
+  },
+  {
+    "dia_mes": "13/03",
+    "descricao": [
+      "Dia do Conservacionismo"
+    ]
+  },
+  {
+    "dia_mes": "14/03",
+    "descricao": [
+      "Dia do Vendedor de Livros",
+      "Dia do Pi",
+      "Dia da Incontinência Urinária",
+      "Dia Nacional dos Animais",
+      "Dia Internacional de Luta contra as Barragens",
+      "Dia Internacional da Matemática"
+    ]
+  },
+  {
+    "dia_mes": "15/03",
+    "descricao": [
+      "Dia da Escola",
+      "Dia Mundial do Consumidor",
+      "Dia de São Longuinho",
+      "Dia Internacional de Combate à Islamofobia"
+    ]
+  },
+  {
+    "dia_mes": "16/03",
+    "descricao": [
+      "Dia Nacional de Conscientização sobre as Mudanças Climáticas",
+      "Dia Nacional do Ouvidor",
+      "Dia do Agente Federal de Execução Penal",
+      "Dia do Médico Clínico"
+    ]
+  },
+  {
+    "dia_mes": "17/03",
+    "descricao": [
+      "Dia de São Patrício",
+      "Dia do Agente Funerário"
+    ]
+  },
+  {
+    "dia_mes": "18/03",
+    "descricao": [
+      "Dia Nacional da Imigração Judaica",
+      "Dia do DeMolay"
+    ]
+  },
+  {
+    "dia_mes": "19/03",
+    "descricao": [
+      "Dia de São José",
+      "Dia do Carpinteiro e do Marceneiro",
+      "Dia Nacional do Artesão",
+      "Dia do Consertador"
+    ]
+  },
+  {
+    "dia_mes": "20/03",
+    "descricao": [
+      "Dia Internacional da Felicidade",
+      "Dia do Contador de Histórias",
+      "Dia Mundial da Saúde Bucal"
+    ]
+  },
+  {
+    "dia_mes": "21/03",
+    "descricao": [
+      "Dia Internacional da Síndrome de Down",
+      "Dia Universal do Teatro",
+      "Dia Internacional das Florestas",
+      "Dia Internacional Contra a Discriminação Racial",
+      "Dia Mundial da Infância",
+      "Dia Mundial da Poesia",
+      "Dia do Pão Francês"
+    ]
+  },
+  {
+    "dia_mes": "22/03",
+    "descricao": [
+      "Dia Mundial da Água"
+    ]
+  },
+  {
+    "dia_mes": "23/03",
+    "descricao": [
+      "Dia Mundial da Meteorologia",
+      "Dia Nacional do Piso Salarial dos Professores",
+      "Dia Mundial do Acupunturista"
+    ]
+  },
+  {
+    "dia_mes": "24/03",
+    "descricao": [
+      "Dia Internacional pelo Direito à Verdade sobre Graves Violações dos Direitos Humanos e pela Dignidade das Vítimas",
+      "Dia Mundial da Tuberculose"
+    ]
+  },
+  {
+    "dia_mes": "25/03",
+    "descricao": [
+      "Dia da Constituição",
+      "Dia Internacional em Memória das Vítimas da Escravatura e do Comércio Transatlântico de Escravos",
+      "Dia Internacional da Solidariedade com Pessoas Detentas ou Desaparecidas",
+      "Dia Nacional do Oficial de Justiça",
+      "Dia de São Dimas",
+      "Dia do Especialista de Aeronáutica",
+      "Dia Nacional da Comunidade Árabe",
+      "Dia Internacional de Solidariedade com Funcionários Detidos e Desaparecidos da ONU"
+    ]
+  },
+  {
+    "dia_mes": "26/03",
+    "descricao": [
+      "Dia do Cacau",
+      "Dia Mundial de Conscientização da Epilepsia",
+      "Dia do Mercosul"
+    ]
+  },
+  {
+    "dia_mes": "27/03",
+    "descricao": [
+      "Dia Mundial do Teatro",
+      "Dia do Circo"
+    ]
+  },
+  {
+    "dia_mes": "28/03",
+    "descricao": [
+      "Dia do Diagramador",
+      "Dia do Revisor"
+    ]
+  },
+  {
+    "dia_mes": "29/03",
+    "descricao": [
+      "Aniversário de Salvador (BA)",
+      "Aniversário de Curitiba (PR)"
+    ]
+  },
+  {
+    "dia_mes": "30/03",
+    "descricao": [
+      "Dia Mundial do Transtorno Bipolar",
+      "Dia Internacional do Lixo Zero"
+    ]
+  },
+  {
+    "dia_mes": "31/03",
+    "descricao": [
+      "Dia da Integração Nacional",
+      "Dia Mundial do Backup",
+      "Dia Internacional da Visibilidade Transgênero",
+      "Dia da Saúde e Nutrição"
+    ]
+  },
+  {
+    "dia_mes": "01/04",
+    "descricao": [
+      "Dia da Mentira",
+      "Dia da Abolição da Escravidão Indígena",
+      "Dia Internacional da Diversão no Trabalho"
+    ]
+  },
+  {
+    "dia_mes": "02/04",
+    "descricao": [
+      "Dia Internacional do Livro Infantil",
+      "Dia do Propagandista",
+      "Dia Mundial de Conscientização do Autismo",
+      "Dia Internacional da Checagem de Fatos"
+    ]
+  },
+  {
+    "dia_mes": "03/04",
+    "descricao": [
+      "Dia do Atuário",
+      "Dia do Desporto Comunitário"
+    ]
+  },
+  {
+    "dia_mes": "04/04",
+    "descricao": [
+      "Dia Nacional do Parkinsoniano",
+      "Dia Mundial dos Animais de Rua",
+      "Dia Internacional de Conscientização sobre Perigos das Minas Terrestres"
+    ]
+  },
+  {
+    "dia_mes": "05/04",
+    "descricao": [
+      "Dia das Telecomunicações",
+      "Dia do Propagandista Farmacêutico",
+      "Dia dos Fabricantes de Materiais de Construção",
+      "Dia Internacional da Consciência",
+      "Dia do Filho"
+    ]
+  },
+  {
+    "dia_mes": "06/04",
+    "descricao": [
+      "Dia Nacional de Mobilização pela Promoção da Saúde e Qualidade de Vida",
+      "Dia Mundial da Atividade Física",
+      "Dia Internacional do Esporte para o Desenvolvimento e pela Paz"
+    ]
+  },
+  {
+    "dia_mes": "07/04",
+    "descricao": [
+      "Dia Mundial da Saúde",
+      "Dia do Jornalista",
+      "Dia do Médico Legista",
+      "Dia Nacional de Combate ao Bullying e à Violência na Escola",
+      "Dia Internacional para Reflexão do Genocídio em Ruanda (1994)"
+    ]
+  },
+  {
+    "dia_mes": "08/04",
+    "descricao": [
+      "Dia Mundial da Natação",
+      "Dia Nacional do Correio",
+      "Dia Mundial da Astronomia",
+      "Dia Nacional do Sistema Braille"
+    ]
+  },
+  {
+    "dia_mes": "09/04",
+    "descricao": [
+      "Dia Nacional do Aço",
+      "Dia Nacional da Biblioteca"
+    ]
+  },
+  {
+    "dia_mes": "10/04",
+    "descricao": [
+      "Dia da Engenharia",
+      "Dia do Engenheiro Militar",
+      "Dia Mundial da Homeopatia",
+      "Dia do Engenheiro Metalurgista"
+    ]
+  },
+  {
+    "dia_mes": "11/04",
+    "descricao": [
+      "Dia do Infectologista",
+      "Dia da Escola de Samba",
+      "Dia Mundial de Conscientização da Doença de Parkinson"
+    ]
+  },
+  {
+    "dia_mes": "12/04",
+    "descricao": [
+      "Dia Nacional do Humor",
+      "Dia do Obstetra",
+      "Dia Internacional do Voo Espacial Tripulado"
+    ]
+  },
+  {
+    "dia_mes": "13/04",
+    "descricao": [
+      "Dia do Jovem",
+      "Dia do Office Boy",
+      "Dia do Hino Nacional Brasileiro"
+    ]
+  },
+  {
+    "dia_mes": "14/04",
+    "descricao": [
+      "Dia Mundial do Café",
+      "Dia Pan‑Americano",
+      "Dia Nacional do Neurocirurgião",
+      "Dia Mundial da Doença de Chagas",
+      "Dia do Técnico em Serviço de Saúde",
+      "Dia de Olhar para o Céu"
+    ]
+  },
+  {
+    "dia_mes": "15/04",
+    "descricao": [
+      "Dia Nacional da Conservação do Solo",
+      "Dia do Desarmamento Infantil",
+      "Dia Mundial do Desenhista",
+      "Dia Mundial da Arte",
+      "Dia Mundial do Ciclista"
+    ]
+  },
+  {
+    "dia_mes": "16/04",
+    "descricao": [
+      "Dia do Sacerdócio",
+      "Dia Mundial da Voz"
+    ]
+  },
+  {
+    "dia_mes": "17/04",
+    "descricao": [
+      "Dia do Lojista de CD",
+      "Dia Internacional de Luta dos Trabalhadores do Campo",
+      "Dia Nacional da Botânica",
+      "Dia Mundial da Hemofilia",
+      "Dia Nacional de Luta pela Reforma Agrária"
+    ]
+  },
+  {
+    "dia_mes": "18/04",
+    "descricao": [
+      "Dia Nacional do Livro Infantil",
+      "Dia de Monteiro Lobato",
+      "Dia Mundial do Radioamador",
+      "Dia Internacional dos Monumentos e Sítios",
+      "Sexta‑Feira Santa (data móvel)"
+    ]
+  },
+  {
+    "dia_mes": "19/04",
+    "descricao": [
+      "Dia dos Povos Indígenas",
+      "Dia do Exército Brasileiro",
+      "Dia Mundial dos Simpsons",
+      "Dia de Santo Expedito",
+      "Sábado de Aleluia (data móvel)"
+    ]
+  },
+  {
+    "dia_mes": "20/04",
+    "descricao": [
+      "Dia do Diplomata",
+      "Dia do Disco",
+      "Dia da Língua Chinesa",
+      "Páscoa (domingo móvel)"
+    ]
+  },
+  {
+    "dia_mes": "21/04",
+    "descricao": [
+      "Dia de Tiradentes",
+      "Dia da Latinidade",
+      "Dia do Metalúrgico",
+      "Dia do Policial Civil e Militar",
+      "Dia do Têxtil",
+      "Dia Mundial da Criatividade e Inovação"
+    ]
+  },
+  {
+    "dia_mes": "22/04",
+    "descricao": [
+      "Dia da Terra",
+      "Dia do Descobrimento do Brasil",
+      "Dia da Comunidade Luso‑Brasileira",
+      "Dia do Agente de Viagem",
+      "Dia da Aviação de Caça",
+      "Dia Nacional da Tontura"
+    ]
+  },
+  {
+    "dia_mes": "23/04",
+    "descricao": [
+      "Dia Mundial do Livro",
+      "Dia de São Jorge",
+      "Dia Mundial do Escoteiro",
+      "Dia Nacional da Educação de Surdos",
+      "Dia Nacional do Choro",
+      "Dia da Língua Inglesa",
+      "Dia da Língua Espanhola",
+      "Dia Internacional de Cutucar o Nariz"
+    ]
+  },
+  {
+    "dia_mes": "24/04",
+    "descricao": [
+      "Dia Internacional do Jovem Trabalhador",
+      "Dia Nacional da Família na Escola",
+      "Dia Mundial de Combate à Meningite",
+      "Dia Nacional da Libras",
+      "Dia Mundial do Multilateralismo e Diplomacia para a Paz",
+      "Dia do Boi",
+      "Dia do Chimarrão",
+      "Dia do Samurai",
+      "Dia do Churrasco"
+    ]
+  },
+  {
+    "dia_mes": "25/04",
+    "descricao": [
+      "Dia Mundial da Luta contra a Malária",
+      "Dia da Contabilidade",
+      "Dia do DNA",
+      "Dia do Despachante Aduaneiro",
+      "Dia Internacional de Conscientização para a Alienação Parental",
+      "Dia Mundial do Pinguim"
+    ]
+  },
+  {
+    "dia_mes": "26/04",
+    "descricao": [
+      "Dia Internacional em Memória do Desastre de Chernobyl",
+      "Dia Mundial da Propriedade Intelectual",
+      "Dia do Goleiro",
+      "Dia do Juiz do Trabalho",
+      "Dia de Prevenção e Combate à Hipertensão"
+    ]
+  },
+  {
+    "dia_mes": "27/04",
+    "descricao": [
+      "Dia do Engraxate",
+      "Dia da Empregada Doméstica",
+      "Dia Mundial do Design Gráfico"
+    ]
+  },
+  {
+    "dia_mes": "28/04",
+    "descricao": [
+      "Dia Mundial da Segurança e Saúde no Trabalho",
+      "Dia da Sogra",
+      "Dia da Educação",
+      "Dia Nacional da Caatinga",
+      "Dia Nacional em Memória das Vítimas de Acidentes e Doenças do Trabalho"
+    ]
+  },
+  {
+    "dia_mes": "29/04",
+    "descricao": [
+      "Dia Internacional da Dança"
+    ]
+  },
+  {
+    "dia_mes": "30/04",
+    "descricao": [
+      "Dia Internacional do Jazz",
+      "Dia do Ferroviário",
+      "Dia Nacional da Mulher"
+    ]
+  },
+  {
+    "dia_mes": "01/05",
+    "descricao": [
+      "Dia da Literatura Brasileira",
+      "Dia Mundial do Trabalho",
+      "Dia Mundial da Senha"
+    ]
+  },
+  {
+    "dia_mes": "02/05",
+    "descricao": [
+      "Dia Mundial do Atum",
+      "Dia Nacional do Ex‑Combatente",
+      "Dia Nacional da Ética"
+    ]
+  },
+  {
+    "dia_mes": "03/05",
+    "descricao": [
+      "Dia do Sol",
+      "Dia Mundial da Liberdade de Imprensa",
+      "Dia do Taquígrafo",
+      "Dia do Sertanejo",
+      "Dia do Parlamento",
+      "Dia do Pau‑Brasil"
+    ]
+  },
+  {
+    "dia_mes": "04/05",
+    "descricao": [
+      "Dia de Star Wars",
+      "Dia do Calculista Estrutural",
+      "Dia Internacional do Respeito pelas Galinhas",
+      "Dia Internacional do Bombeiro"
+    ]
+  },
+  {
+    "dia_mes": "05/05",
+    "descricao": [
+      "Dia da Comunidade",
+      "Dia Nacional das Comunicações",
+      "Dia Mundial da Língua Portuguesa",
+      "Dia do Artista Pintor",
+      "Dia do Marechal Rondon",
+      "Dia Nacional do Expedicionário",
+      "Dia Mundial de Higiene das Mãos",
+      "Dia Nacional do Líder Comunitário",
+      "Dia Nacional sobre o Uso Racional de Medicamentos",
+      "Dia do Campo",
+      "Dia Internacional da Parteira",
+      "Dia Mundial do Trânsito e da Cortesia ao Volante"
+    ]
+  },
+  {
+    "dia_mes": "06/05",
+    "descricao": [
+      "Dia Nacional da Matemática",
+      "Dia do Cartógrafo",
+      "Dia da Coragem",
+      "Dia do Psicanalista",
+      "Dia do Engenheiro Cartógrafo",
+      "Dia Internacional sem Dieta"
+    ]
+  },
+  {
+    "dia_mes": "07/05",
+    "descricao": [
+      "Dia do Oftalmologista",
+      "Dia do Silêncio",
+      "Dia Internacional da Luta Contra a Endometriose",
+      "Dia Nacional de Prevenção da Alergia"
+    ]
+  },
+  {
+    "dia_mes": "08/05",
+    "descricao": [
+      "Dia Nacional do Turismo",
+      "Dia do Profissional de Marketing",
+      "Dia do Artista Plástico",
+      "Dia Internacional da Cruz Vermelha",
+      "Dia Internacional da Talassemia",
+      "Dia Nacional das Hemoglobinopatias",
+      "Dia Mundial do Câncer de Ovário"
+    ]
+  },
+  {
+    "dia_mes": "09/05",
+    "descricao": [
+      "Dia da Europa",
+      "Dia Mundial das Meias Perdidas"
+    ]
+  },
+  {
+    "dia_mes": "10/05",
+    "descricao": [
+      "Dia Mundial do Lúpus",
+      "Dia da Cavalaria",
+      "Dia do Guia de Turismo",
+      "Dia da Cozinheira"
+    ]
+  },
+  {
+    "dia_mes": "11/05",
+    "descricao": [
+      "Dia da Integração do Telégrafo no Brasil",
+      "Dia Nacional do Reggae"
+    ]
+  },
+  {
+    "dia_mes": "12/05",
+    "descricao": [
+      "Dia Internacional da Enfermagem",
+      "Dia Internacional dos Enfermeiros e Enfermeiras",
+      "Dia Nacional de Conscientização e Enfrentamento da Fibromialgia",
+      "Dia Internacional da Sanidade Vegetal"
+    ]
+  },
+  {
+    "dia_mes": "13/05",
+    "descricao": [
+      "Dia da Abolição da Escravatura",
+      "Dia da Fraternidade",
+      "Dia do Automóvel",
+      "Dia do Zootecnista",
+      "Dia Nacional do Chefe de Cozinha",
+      "Dia de Nossa Senhora de Fátima",
+      "Dia Mundial do Coquetel"
+    ]
+  },
+  {
+    "dia_mes": "14/05",
+    "descricao": [
+      "Dia Continental do Seguro",
+      "Dia de São Matias"
+    ]
+  },
+  {
+    "dia_mes": "15/05",
+    "descricao": [
+      "Dia Internacional da Família",
+      "Dia do Assistente Social",
+      "Dia do Gerente Bancário",
+      "Dia Nacional do Controle das Infecções Hospitalares",
+      "Dia Nacional de Conscientização da Mucopolissacaridose"
+    ]
+  },
+  {
+    "dia_mes": "16/05",
+    "descricao": [
+      "Dia Internacional da Luz",
+      "Dia do Gari",
+      "Dia Internacional da Convivência em Paz",
+      "Dia do Médico Geriatra",
+      "Dia Mundial de Conscientização sobre a Doença Celíaca"
+    ]
+  },
+  {
+    "dia_mes": "17/05",
+    "descricao": [
+      "Dia Internacional da Comunicação e das Telecomunicações",
+      "Dia Internacional contra a Homofobia, Transfobia e Bifobia",
+      "Dia Mundial da Reciclagem",
+      "Dia Mundial da Pastelaria"
+    ]
+  },
+  {
+    "dia_mes": "18/05",
+    "descricao": [
+      "Dia Internacional dos Museus",
+      "Dia do Vidraceiro",
+      "Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes",
+      "Dia Nacional da Luta Antimanicomial",
+      "Dia de Conscientização sobre a Necessidade de Vacina Contra HIV/Aids"
+    ]
+  },
+  {
+    "dia_mes": "19/05",
+    "descricao": [
+      "Dia dos Acadêmicos do Direito",
+      "Dia Nacional de Combate à Cefaleia",
+      "Dia do Defensor Público",
+      "Dia Nacional de Doação de Leite Humano",
+      "Dia de São Crispim de Viterbo",
+      "Dia Nacional do Físico",
+      "Dia Mundial da Doença Inflamatória Intestinal",
+      "Dia Mundial do Médico de Família"
+    ]
+  },
+  {
+    "dia_mes": "20/05",
+    "descricao": [
+      "Dia Mundial da Abelha",
+      "Dia do Comissário da Infância e da Juventude",
+      "Dia do Pedagogo",
+      "Dia Nacional do Medicamento Genérico",
+      "Dia Nacional do Técnico e Auxiliar de Enfermagem",
+      "Dia Mundial da Metrologia"
+    ]
+  },
+  {
+    "dia_mes": "21/05",
+    "descricao": [
+      "Dia Mundial da Diversidade Cultural para o Diálogo e o Desenvolvimento",
+      "Dia da Língua Nacional",
+      "Dia do Afilhado",
+      "Dia Internacional do Chá"
+    ]
+  },
+  {
+    "dia_mes": "22/05",
+    "descricao": [
+      "Dia do Apicultor",
+      "Dia de Santa Rita de Cássia",
+      "Dia Mundial do Gótico",
+      "Dia Internacional da Biodiversidade Biológica",
+      "Dia Nacional do Abraço"
+    ]
+  },
+  {
+    "dia_mes": "23/05",
+    "descricao": [
+      "Dia Mundial da Tartaruga",
+      "Dia da Juventude Constitucionalista",
+      "Dia Internacional para Acabar com a Fístula Obstétrica"
+    ]
+  },
+  {
+    "dia_mes": "24/05",
+    "descricao": [
+      "Dia do Vestibulando",
+      "Dia da Infantaria",
+      "Dia do Datilógrafo",
+      "Dia do Telegrafista",
+      "Dia Nacional do Calcário Agrícola",
+      "Dia Nacional do Cigano",
+      "Dia Nacional do Milho",
+      "Dia Nacional do Café"
+    ]
+  },
+  {
+    "dia_mes": "25/05",
+    "descricao": [
+      "Dia Nacional da Adoção",
+      "Dia Nacional do Esporte Escolar",
+      "Dia do Orgulho Nerd",
+      "Dia da Indústria",
+      "Dia do Massagista",
+      "Dia da Toalha",
+      "Dia Internacional do Sapateado",
+      "Dia Internacional das Crianças Desaparecidas",
+      "Dia da Costureira",
+      "Dia Nacional do Respeito ao Contribuinte",
+      "Dia Internacional da Tireoide",
+      "Dia da África"
+    ]
+  },
+  {
+    "dia_mes": "26/05",
+    "descricao": [
+      "Dia Nacional de Combate ao Glaucoma",
+      "Dia do Revendedor Lotérico"
+    ]
+  },
+  {
+    "dia_mes": "27/05",
+    "descricao": [
+      "Dia Nacional da Mata Atlântica",
+      "Dia do Profissional Liberal",
+      "Dia do Serviço de Saúde",
+      "Dia do Engenheiro de Custos"
+    ]
+  },
+  {
+    "dia_mes": "28/05",
+    "descricao": [
+      "Dia Mundial do Hambúrguer",
+      "Dia do Ceramista",
+      "Dia Nacional de Luta pela Redução da Mortalidade Materna",
+      "Dia do Desafio",
+      "Dia de São Germano de Paris",
+      "Dia Internacional de Luta pela Saúde da Mulher",
+      "Dia Mundial do Brincar"
+    ]
+  },
+  {
+    "dia_mes": "29/05",
+    "descricao": [
+      "Dia do Estatístico",
+      "Dia do Geógrafo",
+      "Dia Mundial da Energia",
+      "Dia Internacional dos Soldados da Paz das Nações Unidas",
+      "Dia Mundial da Saúde Digestiva",
+      "Dia do Ibgeano"
+    ]
+  },
+  {
+    "dia_mes": "30/05",
+    "descricao": [
+      "Dia do Geólogo",
+      "Dia do Decorador",
+      "Dia da Santa Joana d'Arc",
+      "Dia de São Fernando",
+      "Dia Mundial da Esclerose Múltipla",
+      "Dia Mundial da Batata Frita"
+    ]
+  },
+  {
+    "dia_mes": "31/05",
+    "descricao": [
+      "Dia Mundial sem Tabaco",
+      "Dia do Comissário de Bordo",
+      "Dia do Espírito Santo",
+      "Dia da Aeromoça",
+      "Dia do Aeroporto"
+    ]
+  },
+  {
+    "dia_mes": "01/06",
+    "descricao": [
+      "Dia da Imprensa",
+      "Dia de São Justino",
+      "Dia Mundial dos Pais",
+      "Dia Mundial do Leite"
+    ]
+  },
+  {
+    "dia_mes": "02/06",
+    "descricao": [
+      "Dia de Sair mais Cedo do Trabalho"
+    ]
+  },
+  {
+    "dia_mes": "03/06",
+    "descricao": [
+      "Dia da Repetição",
+      "Dia Internacional do Administrador de Pessoal",
+      "Dia Mundial da Bicicleta",
+      "Dia Nacional da Educação Ambiental",
+      "Dia do Profissional de RH",
+      "Dia de Conscientização sobre Obesidade Infantil"
+    ]
+  },
+  {
+    "dia_mes": "04/06",
+    "descricao": [
+      "Dia de Abraçar Seu Gato",
+      "Dia Internacional das Crianças Inocentes Vítimas de Agressão",
+      "Dia do Engenheiro Agrimensor",
+      "Dia do Gestor Comercial"
+    ]
+  },
+  {
+    "dia_mes": "05/06",
+    "descricao": [
+      "Dia da Ecologia",
+      "Dia Nacional da Reciclagem",
+      "Dia de São Bonifácio",
+      "Dia Internacional de Luta contra Pesca Ilegal",
+      "Dia do Engenheiro Mecânico",
+      "Dia Mundial do Meio Ambiente"
+    ]
+  },
+  {
+    "dia_mes": "06/06",
+    "descricao": [
+      "Dia de São Norberto",
+      "Dia Nacional de Luta contra Queimaduras",
+      "Dia do Teste do Pezinho",
+      "Dia da Língua Russa",
+      "Dia de São Marcelino Champagnat"
+    ]
+  },
+  {
+    "dia_mes": "07/06",
+    "descricao": [
+      "Dia Nacional da Liberdade de Imprensa",
+      "Dia Mundial da Segurança dos Alimentos"
+    ]
+  },
+  {
+    "dia_mes": "08/06",
+    "descricao": [
+      "Dia do Oceanógrafo",
+      "Dia do Citricultor",
+      "Dia de São Medardo",
+      "Dia Mundial dos Oceanos"
+    ]
+  },
+  {
+    "dia_mes": "09/06",
+    "descricao": [
+      "Dia da Imunização",
+      "Dia do Porteiro",
+      "Dia do Tenista",
+      "Dia Nacional de Anchieta",
+      "Dia Internacional dos Arquivos"
+    ]
+  },
+  {
+    "dia_mes": "10/06",
+    "descricao": [
+      "Dia da Artilharia",
+      "Dia de Portugal, de Camões e das Comunidades Portuguesas"
+    ]
+  },
+  {
+    "dia_mes": "11/06",
+    "descricao": [
+      "Dia da Marinha Brasileira",
+      "Dia do Educador Sanitário",
+      "Dia de São Barnabé"
+    ]
+  },
+  {
+    "dia_mes": "12/06",
+    "descricao": [
+      "Dia dos Namorados",
+      "Dia do Correio Aéreo Nacional",
+      "Dia Mundial de Combate ao Trabalho Infantil",
+      "Dia do Enxadrista"
+    ]
+  },
+  {
+    "dia_mes": "13/06",
+    "descricao": [
+      "Dia de Santo Antônio",
+      "Dia do Turista",
+      "Dia Internacional de Conscientização sobre o Albinismo",
+      "Dia Mundial do Softball"
+    ]
+  },
+  {
+    "dia_mes": "14/06",
+    "descricao": [
+      "Dia Mundial do Doador de Sangue",
+      "Dia do Solista",
+      "Dia Universal de Deus"
+    ]
+  },
+  {
+    "dia_mes": "15/06",
+    "descricao": [
+      "Dia Mundial da Conscientização da Violência contra Pessoa Idosa",
+      "Dia Mundial do Vento"
+    ]
+  },
+  {
+    "dia_mes": "16/06",
+    "descricao": [
+      "Dia de São Francisco Régis",
+      "Dia Internacional da Tartaruga Marinha",
+      "Dia Internacional das Remessas Familiares",
+      "Dia Internacional da Criança Africana"
+    ]
+  },
+  {
+    "dia_mes": "17/06",
+    "descricao": [
+      "Dia do Funcionário Público Aposentado",
+      "Dia da Medicina Veterinária Militar",
+      "Dia Mundial do Karatê",
+      "Dia Mundial de Combate à Desertificação e à Seca",
+      "Dia do Gestor Ambiental"
+    ]
+  },
+  {
+    "dia_mes": "18/06",
+    "descricao": [
+      "Dia do Químico",
+      "Dia da Imigração Japonesa",
+      "Dia da Gastronomia Sustentável",
+      "Dia do Orgulho Autista"
+    ]
+  },
+  {
+    "dia_mes": "19/06",
+    "descricao": [
+      "Dia do Cinema Brasileiro",
+      "Dia Nacional do Migrante",
+      "Dia de São Romualdo",
+      "Dia Internacional para Eliminação da Violência Sexual em Conflito",
+      "Dia Mundial de Conscientização da Doença Falciforme",
+      "Dia Nacional do Luto"
+    ]
+  },
+  {
+    "dia_mes": "20/06",
+    "descricao": [
+      "Dia do Revendedor",
+      "Dia do Vigilante",
+      "Dia do Refugiado",
+      "Dia do Advogado Trabalhista"
+    ]
+  },
+  {
+    "dia_mes": "21/06",
+    "descricao": [
+      "Dia de São Luís Gonzaga",
+      "Dia Mundial da Hidrografia",
+      "Dia do Profissional de Mídia",
+      "Dia Internacional do Aperto de Mão",
+      "Dia Mundial do Skate",
+      "Dia do Intelectual",
+      "Dia Internacional do Yoga",
+      "Dia Nacional de Controle da Asma",
+      "Dia Nacional de Luta contra a ELA",
+      "Dia Mundial da Girafa"
+    ]
+  },
+  {
+    "dia_mes": "22/06",
+    "descricao": [
+      "Dia de Levar o Cachorro para o Trabalho",
+      "Dia do Orquidófilo",
+      "Dia do Aeroviário"
+    ]
+  },
+  {
+    "dia_mes": "23/06",
+    "descricao": [
+      "Dia Universal Olímpico",
+      "Dia Mundial do Desporto Olímpico",
+      "Dia do Atleta Olímpico",
+      "Dia do Lavrador",
+      "Dia de São José Cafasso",
+      "Dia da ONU para o Serviço Público",
+      "Dia Internacional das Viúvas",
+      "Dia Nacional do Agente Marítimo",
+      "Dia Internacional das Mulheres na Engenharia"
+    ]
+  },
+  {
+    "dia_mes": "24/06",
+    "descricao": [
+      "Dia de São João",
+      "Dia da Polícia Militar",
+      "Dia Mundial do Disco Voador",
+      "Dia do Observador Aéreo",
+      "Dia Nacional da Araucária",
+      "Dia da Indústria Gráfica",
+      "Dia Mundial da Ufologia"
+    ]
+  },
+  {
+    "dia_mes": "25/06",
+    "descricao": [
+      "Dia do Imigrante",
+      "Dia Mundial do Vitiligo",
+      "Dia do Cotonete",
+      "Dia Mundial do Marinheiro"
+    ]
+  },
+  {
+    "dia_mes": "26/06",
+    "descricao": [
+      "Dia Internacional de Combate às Drogas",
+      "Dia Internacional contra Abuso e Tráfico Ilícito de Drogas",
+      "Dia Internacional de Apoio às Vítimas de Tortura",
+      "Dia Nacional do Diabetes",
+      "Dia do Metrologista"
+    ]
+  },
+  {
+    "dia_mes": "27/06",
+    "descricao": [
+      "Dia Nacional do Vôlei",
+      "Dia Nacional do Progresso",
+      "Dia de Nossa Senhora do Perpétuo Socorro",
+      "Dia Nacional do Técnico em Nutrição e Dietética",
+      "Dia Nacional do Quadrilheiro Junino",
+      "Dia Internacional das Micro, Pequenas e Médias Empresas"
+    ]
+  },
+  {
+    "dia_mes": "28/06",
+    "descricao": [
+      "Dia de Santo Irineu",
+      "Dia da Renovação Espiritual",
+      "Dia Internacional do Orgulho LGBT"
+    ]
+  },
+  {
+    "dia_mes": "29/06",
+    "descricao": [
+      "Dia de São Pedro e São Paulo",
+      "Dia do Papa",
+      "Dia do Pescador",
+      "Dia do Dublador",
+      "Dia do Telefonista",
+      "Dia do Pescador Amador",
+      "Dia Nacional da Aviação de Segurança Pública",
+      "Dia do Engenheiro de Petróleo",
+      "Dia Internacional dos Trópicos"
+    ]
+  },
+  {
+    "dia_mes": "30/06",
+    "descricao": [
+      "Dia da Mídia Social",
+      "Dia Nacional do Bumba Meu Boi",
+      "Dia Nacional do Fiscal Federal Agropecuário",
+      "Dia Internacional do Asteroide",
+      "Dia Internacional do Parlamentarismo"
+    ]
+  },
+  {
+    "dia_mes": "01/07",
+    "descricao": [
+      "Dia da Vacina BCG",
+      "Dia de Santo Aarão",
+      "Dia Internacional do Cooperativismo",
+      "Dia Mundial da Arquitetura",
+      "Dia Internacional do Reggae"
+    ]
+  },
+  {
+    "dia_mes": "02/07",
+    "descricao": [
+      "Dia do Hospital",
+      "Dia do Bombeiro Brasileiro",
+      "Independência da Bahia"
+    ]
+  },
+  {
+    "dia_mes": "03/07",
+    "descricao": [
+      "Dia Nacional de Combate à Discriminação Racial",
+      "Dia de São Tomé",
+      "Dia Internacional sem Sacos Plásticos"
+    ]
+  },
+  {
+    "dia_mes": "04/07",
+    "descricao": [
+      "Dia do Operador de Telemarketing",
+      "Dia de Santa Isabel",
+      "Independência dos EUA"
+    ]
+  },
+  {
+    "dia_mes": "05/07",
+    "descricao": [
+      "Dia Mundial do Biquíni",
+      "Dia Mundial da Capoeira",
+      "Dia da Fundação do Exército da Salvação"
+    ]
+  },
+  {
+    "dia_mes": "06/07",
+    "descricao": [
+      "Dia de Santa Maria Goretti",
+      "Dia Mundial das Zoonoses",
+      "Dia da Criação do IBGE",
+      "Dia Mundial do Beijo"
+    ]
+  },
+  {
+    "dia_mes": "07/07",
+    "descricao": [
+      "Dia Mundial do Chocolate",
+      "Dia do Ingresso das Mulheres nas Fileiras da Marinha"
+    ]
+  },
+  {
+    "dia_mes": "08/07",
+    "descricao": [
+      "Dia do Panificador",
+      "Dia Nacional da Ciência e do Pesquisador",
+      "Dia Mundial da Alergia"
+    ]
+  },
+  {
+    "dia_mes": "09/07",
+    "descricao": [
+      "Dia do Médico Oncologista",
+      "Dia da Revolução Constitucionalista",
+      "Adesão do Maranhão à Independência do Brasil"
+    ]
+  },
+  {
+    "dia_mes": "10/07",
+    "descricao": [
+      "Dia da Pizza",
+      "Dia do Engenheiro de Minas",
+      "Dia Mundial da Lei",
+      "Dia da Saúde Ocular"
+    ]
+  },
+  {
+    "dia_mes": "11/07",
+    "descricao": [
+      "Dia Mundial da População",
+      "Dia Nacional do Socorrista",
+      "Dia de São Bento"
+    ]
+  },
+  {
+    "dia_mes": "12/07",
+    "descricao": [
+      "Dia do Engenheiro Florestal"
+    ]
+  },
+  {
+    "dia_mes": "13/07",
+    "descricao": [
+      "Dia do Cantor",
+      "Dia do Engenheiro de Saneamento",
+      "Dia dos Compositores e Cantores Sertanejos",
+      "Dia Mundial do Rock",
+      "Dia do Estatuto da Criança e do Adolescente",
+      "Nossa Senhora da Rosa Mística"
+    ]
+  },
+  {
+    "dia_mes": "14/07",
+    "descricao": [
+      "Dia do Propagandista de Laboratório",
+      "Dia da Liberdade de Pensamento",
+      "Dia de São Camilo",
+      "Dia do Engenheiro de Aquicultura",
+      "Dia do Administrador Hospitalar"
+    ]
+  },
+  {
+    "dia_mes": "15/07",
+    "descricao": [
+      "Dia Nacional dos Clubes",
+      "Dia Nacional do Pecuarista",
+      "Dia das Habilidades dos Jovens",
+      "Dia Internacional do Homem"
+    ]
+  },
+  {
+    "dia_mes": "16/07",
+    "descricao": [
+      "Dia do Comerciante",
+      "Dia de Nossa Senhora do Carmo",
+      "Dia Mundial da Cobra"
+    ]
+  },
+  {
+    "dia_mes": "17/07",
+    "descricao": [
+      "Dia de Proteção às Florestas",
+      "Dia Mundial do Emoji",
+      "Dia do Curupira"
+    ]
+  },
+  {
+    "dia_mes": "18/07",
+    "descricao": [
+      "Dia Internacional de Nelson Mandela",
+      "Dia de São Francisco Solano",
+      "Dia Nacional do Trovador",
+      "Dia Mundial da Escuta"
+    ]
+  },
+  {
+    "dia_mes": "19/07",
+    "descricao": [
+      "Dia Nacional da Caridade",
+      "Dia Nacional do Futebol",
+      "Dia de São Símaco"
+    ]
+  },
+  {
+    "dia_mes": "20/07",
+    "descricao": [
+      "Dia Nacional do Biscoito",
+      "Dia Pan‑Americano do Engenheiro",
+      "Dia do Amigo / Dia Internacional da Amizade",
+      "Dia Internacional do Xadrez",
+      " aniversário da chegada do homem à Lua (20/07/1969)"
+    ]
+  },
+  {
+    "dia_mes": "21/07",
+    "descricao": [
+      "Dia Nacional do Garimpeiro",
+      "Dia da Memória aos Mortos da Marinha em Guerra"
+    ]
+  },
+  {
+    "dia_mes": "22/07",
+    "descricao": [
+      "Dia de Santa Maria Madalena",
+      "Dia Mundial do Cérebro",
+      "Dia do Cantor Lírico",
+      "Dia Internacional do Trabalhador Doméstico"
+    ]
+  },
+  {
+    "dia_mes": "23/07",
+    "descricao": [
+      "Dia do Guarda Rodoviário"
+    ]
+  },
+  {
+    "dia_mes": "24/07",
+    "descricao": [
+      "Dia de São Charbel Makhlouf",
+      "Dia Nacional do Suinocultor",
+      "Dia Internacional do Autocuidado",
+      "Dia Nacional da Tequila"
+    ]
+  },
+  {
+    "dia_mes": "25/07",
+    "descricao": [
+      "Dia da Mulher Negra Latino‑Americana e Caribenha",
+      "Dia Nacional de Tereza de Benguela e da Mulher Negra",
+      "Dia da Imigração Alemã no Brasil",
+      "Dia do Motorista",
+      "Dia do Escritor",
+      "Dia de São Cristóvão",
+      "Dia do Colono",
+      "Dia Mundial de Prevenção do Afogamento"
+    ]
+  },
+  {
+    "dia_mes": "26/07",
+    "descricao": [
+      "Dia Nacional do Arqueólogo",
+      "Dia do Recepcionista",
+      "Dia Mundial de Proteção aos Manguezais",
+      "Dia dos Avós",
+      "Nossa Senhora da Fé"
+    ]
+  },
+  {
+    "dia_mes": "27/07",
+    "descricao": [
+      "Dia do Motociclista",
+      "Dia de Levar suas Plantas para Passear",
+      "Dia Mundial de Conscientização e Combate ao Câncer de Cabeça e Pescoço",
+      "Dia de São Pantaleão",
+      "Dia do Pediatra",
+      "Dia Nacional da Prevenção de Acidentes do Trabalho"
+    ]
+  },
+  {
+    "dia_mes": "28/07",
+    "descricao": [
+      "Dia da Morte de Lampião",
+      "Dia da Criação do Comando da Marinha",
+      "Dia Mundial de Luta contra as Hepatites Virais",
+      "Dia do Agricultor",
+      "Nossa Senhora do Belo Ramo"
+    ]
+  },
+  {
+    "dia_mes": "29/07",
+    "descricao": [
+      "Dia de Santa Marta",
+      "Dia Internacional do Tigre"
+    ]
+  },
+  {
+    "dia_mes": "30/07",
+    "descricao": [
+      "Dia do Nascimento de Mario Quintana",
+      "Dia Mundial contra o Tráfico de Pessoas",
+      "Dia Nacional do Cirurgião Geral",
+      "Dia Mundial do Bordado",
+      "Dia Internacional da Amizade (ONU)"
+    ]
+  },
+  {
+    "dia_mes": "31/07",
+    "descricao": [
+      "Dia Mundial do Guarda Florestal",
+      "Dia de Santo Inácio de Loyola",
+      "Dia da Campanha do Quilo",
+      "Dia da Mulher Africana",
+      "Dia Internacional do Abacate"
+    ]
+  },
+  {
+    "dia_mes": "01/08",
+    "descricao": [
+      "Mês da Primeira Infância",
+      "Dia Nacional do Selo",
+      "Dia Nacional dos Portadores de Vitiligo"
+    ]
+  },
+  {
+    "dia_mes": "02/08",
+    "descricao": [
+      "Dia Nacional da Natação",
+      "Dia de Santo Eusébio de Vercelli",
+      "Dia de Nossa Senhora dos Anjos",
+      "Dia da Cultura Nordestina",
+      "Dia da Ação do Coração"
+    ]
+  },
+  {
+    "dia_mes": "03/08",
+    "descricao": [
+      "Dia do Capoeirista",
+      "Dia do Tintureiro",
+      "Dia do Fim da Censura no Brasil",
+      "Dia Internacional da Cerveja"
+    ]
+  },
+  {
+    "dia_mes": "04/08",
+    "descricao": [
+      "Dia Nacional da Campanha Educativa de Combate ao Câncer",
+      "Dia do Padre",
+      "Dia de Santo Afonso de Ligório",
+      "Dia de São João Maria Vianney"
+    ]
+  },
+  {
+    "dia_mes": "05/08",
+    "descricao": [
+      "Dia Nacional da Saúde",
+      "Dia Nacional da Farmácia",
+      "Aniversário de João Pessoa"
+    ]
+  },
+  {
+    "dia_mes": "06/08",
+    "descricao": [
+      "Dia Nacional dos Profissionais da Educação",
+      "Dia Interamericano do Escotismo",
+      "Dia da Transfiguração do Senhor"
+    ]
+  },
+  {
+    "dia_mes": "07/08",
+    "descricao": [
+      "Dia Nacional do Documentário Brasileiro"
+    ]
+  },
+  {
+    "dia_mes": "08/08",
+    "descricao": [
+      "Dia do Pároco",
+      "Dia Nacional da Pessoa com AME",
+      "Dia de São Domingos de Gusmão"
+    ]
+  },
+  {
+    "dia_mes": "09/08",
+    "descricao": [
+      "Dia Internacional dos Povos Indígenas",
+      "Dia Nacional da Equoterapia"
+    ]
+  },
+  {
+    "dia_mes": "10/08",
+    "descricao": [
+      "Dia da Solidariedade Cristã",
+      "Dia Internacional do Biodiesel",
+      "Dia do Padre (padroeira BH – Wikipédia)"
+    ]
+  },
+  {
+    "dia_mes": "11/08",
+    "descricao": [
+      "Dia do Advogado",
+      "Dia do Garçom",
+      "Dia do Estudante",
+      "Dia da Televisão",
+      "Dia de Santa Clara de Assis"
+    ]
+  },
+  {
+    "dia_mes": "12/08",
+    "descricao": [
+      "Dia Internacional da Juventude",
+      "Dia Nacional das Artes",
+      "Dia Nacional dos Direitos Humanos",
+      "Dia de Nossa Senhora da Cabeça"
+    ]
+  },
+  {
+    "dia_mes": "13/08",
+    "descricao": [
+      "Dia do Economista",
+      "Dia do Canhoto",
+      "Dia do Médico Psiquiatra",
+      "Dia de Santa Filomena"
+    ]
+  },
+  {
+    "dia_mes": "14/08",
+    "descricao": [
+      "Dia do Cardiologista",
+      "Dia da Informática",
+      "Dia dos Solteiros",
+      "Dia do Controle da Poluição Industrial",
+      "Assunção de Nossa Senhora"
+    ]
+  },
+  {
+    "dia_mes": "15/08",
+    "descricao": [
+      "Assunção de Nossa Senhora",
+      "Dia da Imigração Chinesa",
+      "Dia de Nossa Senhora da Boa Viagem"
+    ]
+  },
+  {
+    "dia_mes": "16/08",
+    "descricao": [
+      "Dia do Filósofo",
+      "Dia do Auxiliar de Almoxarifado",
+      "Aniversário de Teresina"
+    ]
+  },
+  {
+    "dia_mes": "17/08",
+    "descricao": [
+      "Dia do Patrimônio Histórico",
+      "Dia Nacional da Construção Social"
+    ]
+  },
+  {
+    "dia_mes": "18/08",
+    "descricao": [
+      "Dia do Estagiário",
+      "Dia Mundial da Libertação Humana",
+      "Dia de São Bernardo de Claraval"
+    ]
+  },
+  {
+    "dia_mes": "19/08",
+    "descricao": [
+      "Dia do Historiador",
+      "Dia do Artista de Teatro",
+      "Dia Mundial da Fotografia",
+      "Dia Mundial Humanitário",
+      "Dia Nacional do Ciclista"
+    ]
+  },
+  {
+    "dia_mes": "20/08",
+    "descricao": [
+      "Dia do Maçom",
+      "Dia Mundial contra os Mosquitos"
+    ]
+  },
+  {
+    "dia_mes": "21/08",
+    "descricao": [
+      "Dia Internacional de Lembrança às Vítimas do Terrorismo",
+      "Dia Nacional da Habitação",
+      "Início da Semana da Pessoa com Deficiência Intelectual e Múltipla",
+      "Dia de São Pio X"
+    ]
+  },
+  {
+    "dia_mes": "22/08",
+    "descricao": [
+      "Dia do Folclore",
+      "Dia do Supervisor Escolar",
+      "Dia do Coordenador Pedagógico"
+    ]
+  },
+  {
+    "dia_mes": "23/08",
+    "descricao": [
+      "Dia Internacional em Memória do Tráfico de Escravos e sua Abolição",
+      "Dia do Aviador Naval"
+    ]
+  },
+  {
+    "dia_mes": "24/08",
+    "descricao": [
+      "Dia da Infância",
+      "Dia dos Artistas",
+      "Dia de São Bartolomeu",
+      "Dia Nacional da Comunidade Ucraniana"
+    ]
+  },
+  {
+    "dia_mes": "25/08",
+    "descricao": [
+      "Dia do Soldado",
+      "Dia do Feirante",
+      "Dia Nacional da Educação Infantil",
+      "Dia da Legalidade"
+    ]
+  },
+  {
+    "dia_mes": "26/08",
+    "descricao": [
+      "Dia do Catequista",
+      "Dia Internacional da Igualdade da Mulher",
+      "Dia de Santo Beato João Paulo I",
+      "Aniversário de Campo Grande"
+    ]
+  },
+  {
+    "dia_mes": "27/08",
+    "descricao": [
+      "Dia do Psicólogo",
+      "Dia do Corretor de Imóveis",
+      "Dia de Santo Agostinho"
+    ]
+  },
+  {
+    "dia_mes": "28/08",
+    "descricao": [
+      "Dia dos Bancários",
+      "Dia da Avicultura",
+      "Dia da Avicultura",
+      "Dia Nacional do Voluntariado",
+      "Dia do Beato João Paulo I"
+    ]
+  },
+  {
+    "dia_mes": "29/08",
+    "descricao": [
+      "Dia Nacional de Combate ao Fumo",
+      "Dia Nacional da Visibilidade Lésbica",
+      "Dia Internacional contra Testes Nucleares",
+      "Dia Internacional do Gamer"
+    ]
+  },
+  {
+    "dia_mes": "30/08",
+    "descricao": [
+      "Dia Internacional das Vítimas de Desaparecimentos Forçados",
+      "Dia Nacional de Conscientização sobre Esclerose Múltipla"
+    ]
+  },
+  {
+    "dia_mes": "31/08",
+    "descricao": [
+      "Dia do Nutricionista",
+      "Dia Internacional de Pessoas Afrodescendentes",
+      "Dia do Blog",
+      "Dia do Outdoor"
+    ]
+  },
+  {
+    "dia_mes": "01/09",
+    "descricao": [
+      "Início da Semana da Pátria",
+      "Dia do Profissional de Educação Física"
+    ]
+  },
+  {
+    "dia_mes": "02/09",
+    "descricao": [
+      "Dia do Repórter Fotográfico"
+    ]
+  },
+  {
+    "dia_mes": "03/09",
+    "descricao": [
+      "Dia do Biólogo",
+      "Dia do Guarda Civil"
+    ]
+  },
+  {
+    "dia_mes": "04/09",
+    "descricao": [
+      "Dia da Lei Eusébio de Queirós"
+    ]
+  },
+  {
+    "dia_mes": "05/09",
+    "descricao": [
+      "Dia Internacional da Caridade",
+      "Dia da Amazônia",
+      "Dia Oficial da Farmácia",
+      "Dia da Raça Brasileira"
+    ]
+  },
+  {
+    "dia_mes": "06/09",
+    "descricao": [
+      "Dia do Alfaiate",
+      "Oficialização da Letra do Hino Nacional"
+    ]
+  },
+  {
+    "dia_mes": "07/09",
+    "descricao": [
+      "Independência do Brasil"
+    ]
+  },
+  {
+    "dia_mes": "08/09",
+    "descricao": [
+      "Dia Internacional da Alfabetização"
+    ]
+  },
+  {
+    "dia_mes": "09/09",
+    "descricao": [
+      "Dia da Velocidade",
+      "Dia do Administrador",
+      "Dia do Médico Veterinário"
+    ]
+  },
+  {
+    "dia_mes": "10/09",
+    "descricao": [
+      "Dia Mundial de Prevenção do Suicídio",
+      "Dia do Gordo"
+    ]
+  },
+  {
+    "dia_mes": "11/09",
+    "descricao": [
+      "Sancionada Lei de Defesa do Direito do Consumidor",
+      "Dia do Árbitro Esportivo"
+    ]
+  },
+  {
+    "dia_mes": "12/09",
+    "descricao": [
+      "Dia do Operador de Rastreamento"
+    ]
+  },
+  {
+    "dia_mes": "13/09",
+    "descricao": [
+      "Dia do Programador",
+      "Dia do Agrônomo"
+    ]
+  },
+  {
+    "dia_mes": "14/09",
+    "descricao": [
+      "Dia da Cruz",
+      "Dia do Frevo"
+    ]
+  },
+  {
+    "dia_mes": "15/09",
+    "descricao": [
+      "Dia do Cliente",
+      "Dia Nacional do Musicoterapeuta"
+    ]
+  },
+  {
+    "dia_mes": "16/09",
+    "descricao": [
+      "Dia Internacional para a Preservação da Camada de Ozônio"
+    ]
+  },
+  {
+    "dia_mes": "17/09",
+    "descricao": [
+      "Dia da Compreensão Mundial"
+    ]
+  },
+  {
+    "dia_mes": "18/09",
+    "descricao": [
+      "Dia dos Símbolos Nacionais"
+    ]
+  },
+  {
+    "dia_mes": "19/09",
+    "descricao": [
+      "Dia de São Geraldo",
+      "Dia do Teatro"
+    ]
+  },
+  {
+    "dia_mes": "20/09",
+    "descricao": [
+      "Dia do Baterista",
+      "Dia do Funcionário Municipal",
+      "Dia do Gaúcho"
+    ]
+  },
+  {
+    "dia_mes": "21/09",
+    "descricao": [
+      "Dia Internacional da Paz",
+      "Dia da Árvore",
+      "Dia da Luta Nacional das Pessoas com Deficiências",
+      "Dia do Fazendeiro",
+      "Dia do Adolescente"
+    ]
+  },
+  {
+    "dia_mes": "22/09",
+    "descricao": [
+      "Início da Primavera",
+      "Dia da Juventude do Brasil",
+      "Dia do Contador"
+    ]
+  },
+  {
+    "dia_mes": "23/09",
+    "descricao": [
+      "Dia Mundial das Línguas Gestuais",
+      "Dia do Soldador",
+      "Dia do Sorvete",
+      "Dia do Técnico em Edificações",
+      "Dia do Técnico Industrial"
+    ]
+  },
+  {
+    "dia_mes": "24/09",
+    "descricao": [
+      "Dia do Mototaxista"
+    ]
+  },
+  {
+    "dia_mes": "25/09",
+    "descricao": [
+      "Dia Nacional do Rádio",
+      "Dia Nacional do Trânsito"
+    ]
+  },
+  {
+    "dia_mes": "26/09",
+    "descricao": [
+      "Dia Internacional para a Eliminação Total das Armas Nucleares",
+      "Dia Mundial do Mar",
+      "Dia Interamericano das Relações Públicas",
+      "Dia Nacional do Surdo"
+    ]
+  },
+  {
+    "dia_mes": "27/09",
+    "descricao": [
+      "Dia de Cosme e Damião",
+      "Dia do Encanador",
+      "Dia Mundial do Turismo",
+      "Dia Nacional do Idoso"
+    ]
+  },
+  {
+    "dia_mes": "28/09",
+    "descricao": [
+      "Dia Internacional do Acesso Universal à Informação",
+      "Dia da Lei do Ventre Livre"
+    ]
+  },
+  {
+    "dia_mes": "29/09",
+    "descricao": [
+      "Dia do Anunciante",
+      "Dia do Petróleo"
+    ]
+  },
+  {
+    "dia_mes": "30/09",
+    "descricao": [
+      "Dia da Secretária",
+      "Dia da Navegação",
+      "Dia Mundial do Tradutor",
+      "Dia Nacional do Jornaleiro"
+    ]
+  },
+  {
+    "dia_mes": "01/10",
+    "descricao": [
+      "Dia Nacional do Idoso",
+      "Dia Internacional da Música",
+      "Dia Mundial do Vendedor",
+      "Dia Nacional do Vereador",
+      "Dia de Santa Teresinha do Menino Jesus",
+      "Dia Internacional das Pessoas Idosas",
+      "Dia do Representante Comercial",
+      "Dia Mundial do Vegetarianismo",
+      "Dia Mundial da Urticária",
+      "Dia Internacional do Café"
+    ]
+  },
+  {
+    "dia_mes": "02/10",
+    "descricao": [
+      "Dia Internacional da Não‑Violência",
+      "Dia do Anjo da Guarda",
+      "Dia do Quadro Complementar de Oficiais"
+    ]
+  },
+  {
+    "dia_mes": "03/10",
+    "descricao": [
+      "Dia Mundial do Dentista",
+      "Dia Nacional da Abelha",
+      "Dia do Profissional de Organização",
+      "Dia do Engenheiro de Energia",
+      "Dia do Petróleo Brasileiro"
+    ]
+  },
+  {
+    "dia_mes": "04/10",
+    "descricao": [
+      "Dia do Médico do Trabalho",
+      "Dia do Agente de Endemias",
+      "Dia da Natureza",
+      "Dia do Agente de Saúde",
+      "Dia de São Francisco de Assis",
+      "Dia do Barman",
+      "Dia Mundial dos Animais"
+    ]
+  },
+  {
+    "dia_mes": "05/10",
+    "descricao": [
+      "Dia Mundial dos Professores",
+      "Aniversário da Promulgação da Constituição Federal",
+      "Dia de São Benedito",
+      "Dia Nacional da Micro e Pequena Empresa",
+      "Dia da Ave",
+      "Dia do Empreendedor"
+    ]
+  },
+  {
+    "dia_mes": "06/10",
+    "descricao": [
+      "Dia do Tecnólogo",
+      "Dia de São Bruno",
+      "Dia Nacional do Circulista",
+      "Dia Mundial da Paralisia Cerebral"
+    ]
+  },
+  {
+    "dia_mes": "07/10",
+    "descricao": [
+      "Dia de Nossa Senhora do Rosário",
+      "Dia Mundial do Algodão",
+      "Dia do Trabalho Decente",
+      "Dia do Compositor Brasileiro"
+    ]
+  },
+  {
+    "dia_mes": "08/10",
+    "descricao": [
+      "Dia do Nordestino",
+      "Dia Nacional de Doação de Cordão Umbilical"
+    ]
+  },
+  {
+    "dia_mes": "09/10",
+    "descricao": [
+      "Dia Mundial dos Correios",
+      "Dia do Atletismo",
+      "Dia do Açougueiro"
+    ]
+  },
+  {
+    "dia_mes": "10/10",
+    "descricao": [
+      "Dia Mundial da Saúde Mental",
+      "Dia do Empresário Brasileiro",
+      "Dia Nacional dos Direitos da Pessoa com Transtornos Mentais",
+      "Dia de São Daniel Comboni",
+      "Dia dos Veteranos da Marinha",
+      "Dia Nacional de Luta Contra a Violência à Mulher",
+      "Dia de Segurança e Saúde nas Escolas",
+      "Dia Mundial Contra a Pena de Morte",
+      "Dia Mundial do Ovo"
+    ]
+  },
+  {
+    "dia_mes": "11/10",
+    "descricao": [
+      "Dia do Deficiente Físico",
+      "Dia do Teatro Municipal",
+      "Dia Internacional da Menina",
+      "Dia Nacional de Prevenção da Obesidade"
+    ]
+  },
+  {
+    "dia_mes": "12/10",
+    "descricao": [
+      "Dia das Crianças",
+      "Dia de Nossa Senhora Aparecida",
+      "Dia do Corretor de Seguros",
+      "Dia do Engenheiro Agrônomo",
+      "Dia Nacional da Leitura",
+      "Dia do Descobrimento da América"
+    ]
+  },
+  {
+    "dia_mes": "13/10",
+    "descricao": [
+      "Dia Nacional do Fisioterapeuta",
+      "Dia do Terapeuta Ocupacional",
+      "Dia Internacional para a Redução de Desastres Naturais"
+    ]
+  },
+  {
+    "dia_mes": "14/10",
+    "descricao": [
+      "Dia Nacional da Pecuária",
+      "Dia do Meteorologista",
+      "Dia Mundial da Normalização"
+    ]
+  },
+  {
+    "dia_mes": "15/10",
+    "descricao": [
+      "Dia do Professor",
+      "Dia Internacional da Mulher Rural",
+      "Dia Mundial da Lavagem das Mãos",
+      "Dia do Educador Ambiental",
+      "Dia do Consumo Consciente",
+      "Dia do Médico Neurologista",
+      "Dia Mundial da Bengala Branca"
+    ]
+  },
+  {
+    "dia_mes": "16/10",
+    "descricao": [
+      "Dia Mundial da Alimentação",
+      "Dia da Ciência e Tecnologia",
+      "Dia do Anestesiologista",
+      "Dia de São Geraldo",
+      "Dia do Chefe",
+      "Dia do Engenheiro de Alimentos",
+      "Dia Mundial do Pão",
+      "Dia Mundial da Coluna"
+    ]
+  },
+  {
+    "dia_mes": "17/10",
+    "descricao": [
+      "Dia Internacional para Erradicação da Pobreza",
+      "Dia Nacional da Vacinação",
+      "Dia do Eletricista",
+      "Dia do Profissional de Propaganda",
+      "Dia da Indústria Aeronáutica Brasileira",
+      "Dia da Música Popular Brasileira"
+    ]
+  },
+  {
+    "dia_mes": "18/10",
+    "descricao": [
+      "Dia do Médico",
+      "Dia do Pintor",
+      "Dia do Estivador",
+      "Dia do Securitário"
+    ]
+  },
+  {
+    "dia_mes": "19/10",
+    "descricao": [
+      "Dia do Profissional da Informática",
+      "Dia do Guarda Noturno",
+      "Dia Nacional da Inovação"
+    ]
+  },
+  {
+    "dia_mes": "20/10",
+    "descricao": [
+      "Dia do Maquinista",
+      "Dia do Arquivista",
+      "Dia Mundial do Controlador de Tráfego Aéreo",
+      "Dia Mundial da Estatística",
+      "Dia Mundial da Osteoporose",
+      "Dia do Poeta",
+      "Dia do Securitário"
+    ]
+  },
+  {
+    "dia_mes": "21/10",
+    "descricao": [
+      "Dia Nacional da Alimentação na Escola",
+      "Dia do Ecumenismo",
+      "Dia do Podcast",
+      "Dia Nacional do Economista Doméstico"
+    ]
+  },
+  {
+    "dia_mes": "22/10",
+    "descricao": [
+      "Dia do Paraquedista",
+      "Dia do Enólogo",
+      "Dia Internacional da Gagueira",
+      "Dia do Protesto Mundial contra Eletrochoque",
+      "Dia Internacional do Radioamador"
+    ]
+  },
+  {
+    "dia_mes": "23/10",
+    "descricao": [
+      "Dia da Força Aérea Brasileira",
+      "Dia do Aviador"
+    ]
+  },
+  {
+    "dia_mes": "24/10",
+    "descricao": [
+      "Dia das Nações Unidas"
+    ]
+  },
+  {
+    "dia_mes": "25/10",
+    "descricao": [
+      "Dia Internacional das Artistas",
+      "Dia da Democracia",
+      "Dia do Dentista",
+      "Dia do Sapateiro",
+      "Dia Nacional da Saúde Bucal",
+      "Dia do Engenheiro Civil"
+    ]
+  },
+  {
+    "dia_mes": "26/10",
+    "descricao": [
+      "Dia da Cruz Vermelha",
+      "Dia do Trabalhador da Construção Civil"
+    ]
+  },
+  {
+    "dia_mes": "27/10",
+    "descricao": [
+      "Dia Mundial do Patrimônio Audiovisual"
+    ]
+  },
+  {
+    "dia_mes": "28/10",
+    "descricao": [
+      "Dia de São Judas Tadeu",
+      "Dia do Servidor Público"
+    ]
+  },
+  {
+    "dia_mes": "29/10",
+    "descricao": [
+      "Dia do Cerimonialista",
+      "Dia Nacional do Livro"
+    ]
+  },
+  {
+    "dia_mes": "30/10",
+    "descricao": [
+      "Dia do Balconista",
+      "Dia do Comerciário",
+      "Dia do Fisiculturista",
+      "Dia do Ginecologista",
+      "Dia da Merendeira Escolar",
+      "Dia do Designer de Interiores"
+    ]
+  },
+  {
+    "dia_mes": "31/10",
+    "descricao": [
+      "Dia do Saci",
+      "Dia das Bruxas (Halloween)",
+      "Dia da Reforma Protestante",
+      "Dia Nacional da Poesia",
+      "Dia Mundial da Poupança",
+      "Dia da Dona de Casa",
+      "Dia Mundial das Cidades"
+    ]
+  },
+  {
+    "dia_mes": "01/11",
+    "descricao": [
+      "Dia de Todos os Santos",
+      "Dia Mundial do Veganismo"
+    ]
+  },
+  {
+    "dia_mes": "02/11",
+    "descricao": [
+      "Finados",
+      "Dia dos Mortos",
+      "Dia Internacional pelo Fim da Impunidade contra Jornalistas"
+    ]
+  },
+  {
+    "dia_mes": "03/11",
+    "descricao": [
+      "Dia Nacional do Quilo",
+      "Dia do Cabeleireiro",
+      "Dia da Instituição do Direito de Voto da Mulher"
+    ]
+  },
+  {
+    "dia_mes": "04/11",
+    "descricao": [
+      "Dia do Inventor",
+      "Dia do Oficial da Reserva (R/2)",
+      "Dia da Favela"
+    ]
+  },
+  {
+    "dia_mes": "05/11",
+    "descricao": [
+      "Dia da Ciência e Cultura",
+      "Dia do Cinema Brasileiro",
+      "Dia do Radioamador e Técnico em Eletrônica",
+      "Dia Nacional do Designer",
+      "Dia Nacional da Língua Portuguesa"
+    ]
+  },
+  {
+    "dia_mes": "06/11",
+    "descricao": [
+      "Dia Nacional do Amigo da Marinha do Brasil",
+      "Dia Nacional do Riso",
+      "Dia Internacional para Prevenção da Exploração do Meio Ambiente em Tempos de Guerra"
+    ]
+  },
+  {
+    "dia_mes": "07/11",
+    "descricao": [
+      "Dia do Radialista"
+    ]
+  },
+  {
+    "dia_mes": "08/11",
+    "descricao": [
+      "Dia do Radiologista",
+      "Dia Mundial do Urbanismo"
+    ]
+  },
+  {
+    "dia_mes": "09/11",
+    "descricao": [
+      "Dia Mundial da Liberdade",
+      "Dia do Técnico em Eletrotécnica",
+      "Dia do Hoteleiro"
+    ]
+  },
+  {
+    "dia_mes": "10/11",
+    "descricao": [
+      "Dia do Trigo",
+      "Dia Nacional de Prevenção e Combate à Surdez",
+      "Dia Mundial da Ciência pela Paz e Desenvolvimento"
+    ]
+  },
+  {
+    "dia_mes": "11/11",
+    "descricao": [
+      "Dia dos Solteiros",
+      "Dia do Armistício",
+      "Dia da Lembrança",
+      "Dia dos Veteranos",
+      "Dia do Material Bélico da Aeronáutica"
+    ]
+  },
+  {
+    "dia_mes": "12/11",
+    "descricao": [
+      "Dia do Diretor de Escola",
+      "Dia Nacional do Supermercado"
+    ]
+  },
+  {
+    "dia_mes": "13/11",
+    "descricao": [
+      "Dia Mundial da Gentileza"
+    ]
+  },
+  {
+    "dia_mes": "14/11",
+    "descricao": [
+      "Dia do Bandeirante",
+      "Dia Mundial do Combate ao Diabetes",
+      "Dia Nacional da Alfabetização"
+    ]
+  },
+  {
+    "dia_mes": "15/11",
+    "descricao": [
+      "Proclamação da República",
+      "Dia do Joalheiro",
+      "Dia Nacional da Umbanda",
+      "Dia do Esporte Amador"
+    ]
+  },
+  {
+    "dia_mes": "16/11",
+    "descricao": [
+      "Dia Internacional da Tolerância",
+      "Dia Nacional dos Ostomizados",
+      "Dia Nacional de Atenção à Dislexia",
+      "Dia do Não Fumar",
+      "Dia Nacional da Amazônia Azul"
+    ]
+  },
+  {
+    "dia_mes": "17/11",
+    "descricao": [
+      "Dia da Criatividade",
+      "Dia Internacional do Estudante",
+      "Dia Mundial da Prematuridade",
+      "Dia Nacional de Combate à Tuberculose",
+      "Dia Mundial de Combate ao Câncer de Próstata"
+    ]
+  },
+  {
+    "dia_mes": "18/11",
+    "descricao": [
+      "Dia do Conselheiro Tutelar",
+      "Dia Nacional do Notário e do Registrador"
+    ]
+  },
+  {
+    "dia_mes": "19/11",
+    "descricao": [
+      "Dia da Bandeira",
+      "Dia Internacional do Homem",
+      "Dia Internacional do Empreendedorismo Feminino"
+    ]
+  },
+  {
+    "dia_mes": "20/11",
+    "descricao": [
+      "Dia Nacional de Zumbi e da Consciência Negra",
+      "Dia do Auditor Interno",
+      "Dia do Biomédico",
+      "Dia do Esteticista",
+      "Dia do Técnico em Contabilidade",
+      "Dia Mundial da Criança"
+    ]
+  },
+  {
+    "dia_mes": "21/11",
+    "descricao": [
+      "Dia Mundial da Filosofia",
+      "Dia Mundial da Televisão",
+      "Dia da Homeopatia",
+      "Dia das Saudações"
+    ]
+  },
+  {
+    "dia_mes": "22/11",
+    "descricao": [
+      "Dia do Músico"
+    ]
+  },
+  {
+    "dia_mes": "23/11",
+    "descricao": [
+      "Dia do Engenheiro Eletricista",
+      "Dia Nacional de Combate ao Câncer Infantojuvenil",
+      "Dia Mundial de Ação de Graças"
+    ]
+  },
+  {
+    "dia_mes": "24/11",
+    "descricao": [
+      "Dia do Quadro Auxiliar de Oficiais"
+    ]
+  },
+  {
+    "dia_mes": "25/11",
+    "descricao": [
+      "Dia Nacional do Doador de Sangue",
+      "Dia Nacional da Baiana de Acarajé",
+      "Dia da Madrinha",
+      "Dia Internacional de Não Violência contra as Mulheres"
+    ]
+  },
+  {
+    "dia_mes": "26/11",
+    "descricao": [
+      "Dia do Corpo Auxiliar da Marinha",
+      "Dia Interamericano do Ministério Público"
+    ]
+  },
+  {
+    "dia_mes": "27/11",
+    "descricao": [
+      "Dia do Técnico de Segurança do Trabalho",
+      "Dia Nacional do Combate ao Câncer"
+    ]
+  },
+  {
+    "dia_mes": "28/11",
+    "descricao": [
+      "Dia do Soldado Desconhecido",
+      "Dia Nacional de Luta contra o Câncer de Mama"
+    ]
+  },
+  {
+    "dia_mes": "29/11",
+    "descricao": [
+      "Dia da Onça‑Pintada",
+      "Dia Internacional de Solidariedade com o Povo Palestino"
+    ]
+  },
+  {
+    "dia_mes": "30/11",
+    "descricao": [
+      "Dia do Síndico",
+      "Dia do Evangélico",
+      "Dia da Amizade Brasil‑Argentina",
+      "Dia do Teólogo",
+      "Dia do Estatuto da Terra"
+    ]
+  },
+  {
+    "dia_mes": "01/12",
+    "descricao": [
+      "Dia Internacional da Luta contra a AIDS",
+      "Dia do Numismata",
+      "Início do Dezembro Vermelho (campanha de conscientização)"
+    ]
+  },
+  {
+    "dia_mes": "02/12",
+    "descricao": [
+      "Dia Nacional das Relações Públicas",
+      "Dia Nacional do Samba",
+      "Dia da Astronomia",
+      "Dia Pan‐americano da Saúde",
+      "Dia Internacional para a Abolição da Escravatura",
+      "Aniversário de Minas Gerais"
+    ]
+  },
+  {
+    "dia_mes": "03/12",
+    "descricao": [
+      "Dia Internacional da Pessoa com Deficiência",
+      "Dia Internacional do Deficiente Físico",
+      "Dia de São Francisco Xavier",
+      "Dia do Delegado de Polícia",
+      "Dia Nacional de Combate à Pirataria e Biopirataria"
+    ]
+  },
+  {
+    "dia_mes": "04/12",
+    "descricao": [
+      "Dia da Propaganda",
+      "Dia do Orientador Educacional",
+      "Dia do Pedicuro",
+      "Dia do Perito Criminal Oficial",
+      "Dia do Trabalhador nas Minas de Carvão"
+    ]
+  },
+  {
+    "dia_mes": "05/12",
+    "descricao": [
+      "Dia Mundial do Solo",
+      "Dia Internacional do Voluntário para o Desenvolvimento Econômico e Social",
+      "Dia Nacional da Pastoral da Criança",
+      "Dia do Médico de Família e Comunidade",
+      "Dia da Acessibilidade"
+    ]
+  },
+  {
+    "dia_mes": "06/12",
+    "descricao": [
+      "Dia Nacional de Mobilização dos Homens pelo Fim da Violência contra as Mulheres",
+      "Dia do Neuropsicopedagogo",
+      "Dia da Extensão Rural no Brasil"
+    ]
+  },
+  {
+    "dia_mes": "07/12",
+    "descricao": [
+      "Dia do Médico Cirurgião Plástico",
+      "Dia Internacional da Aviação Civil",
+      "Dia Nacional da Silvicultura"
+    ]
+  },
+  {
+    "dia_mes": "08/12",
+    "descricao": [
+      "Dia da Família",
+      "Dia da Justiça",
+      "Dia da Imaculada Conceição"
+    ]
+  },
+  {
+    "dia_mes": "09/12",
+    "descricao": [
+      "Dia Internacional contra a Corrupção",
+      "Dia Internacional da Comemoração e Dignidade das Vítimas de Genocídio",
+      "Dia Internacional da Medicina Veterinária",
+      "Dia da Criança Especial",
+      "Dia do Alcoólico Recuperado",
+      "Dia do Fonoaudiólogo"
+    ]
+  },
+  {
+    "dia_mes": "10/12",
+    "descricao": [
+      "Declaração Universal dos Direitos Humanos",
+      "Dia do Sociólogo",
+      "Dia Universal do Palhaço"
+    ]
+  },
+  {
+    "dia_mes": "11/12",
+    "descricao": [
+      "Dia do Engenheiro"
+    ]
+  },
+  {
+    "dia_mes": "12/12",
+    "descricao": [
+      "Dia Mundial da Cobertura Universal de Saúde",
+      "Dia Internacional da Criança na Mídia",
+      "Aniversário de Belo Horizonte"
+    ]
+  },
+  {
+    "dia_mes": "13/12",
+    "descricao": [
+      "Dia Mundial da Iluminação por Velas",
+      "Dia de Santa Luzia",
+      "Dia do Cego",
+      "Dia do Engenheiro Avaliador",
+      "Dia do Marinheiro",
+      "Dia do Ótico",
+      "Dia do Perito de Engenharia"
+    ]
+  },
+  {
+    "dia_mes": "14/12",
+    "descricao": [
+      "Dia Nacional do Ministério Público",
+      "Dia do Jardineiro",
+      "Dia do Arquiteto"
+    ]
+  },
+  {
+    "dia_mes": "15/12",
+    "descricao": [
+      "Dia do Arquiteto e Urbanista",
+      "Dia da Mulher Operadora do Direito (Advogada)"
+    ]
+  },
+  {
+    "dia_mes": "16/12",
+    "descricao": [
+      "Dia do Reservista"
+    ]
+  },
+  {
+    "dia_mes": "17/12",
+    "descricao": [
+      "Dia do Pastor Presbiteriano"
+    ]
+  },
+  {
+    "dia_mes": "18/12",
+    "descricao": [
+      "Dia Internacional dos Migrantes",
+      "Dia do Museólogo"
+    ]
+  },
+  {
+    "dia_mes": "19/12",
+    "descricao": [
+      "Dia Estadual da Poesia (Mato Grosso)"
+    ]
+  },
+  {
+    "dia_mes": "20/12",
+    "descricao": [
+      "Dia do Mecânico"
+    ]
+  },
+  {
+    "dia_mes": "21/12",
+    "descricao": [
+      "Início do Verão (hemisfério sul)",
+      "Dia do Atleta",
+      "Solstício de Verão"
+    ]
+  },
+  {
+    "dia_mes": "22/12",
+    "descricao": [
+      "Início do solstício de verão (Hemisfério Sul) / solstício de inverno (Hemisfério Norte)",
+      "Dia da Consciência Ecológica",
+      "Aniversário da criação do estado de Rondônia (22 de dezembro de 1981)",
+      "Dia de Santa Francisca Xavier Cabrini (santo do dia)"
+    ]
+  },
+  {
+    "dia_mes": "23/12",
+    "descricao": [
+      "Dia do Vizinho"
+    ]
+  },
+  {
+    "dia_mes": "24/12",
+    "descricao": [
+      "Dia do Órfão",
+      "Véspera de Natal (ponto facultativo após 12h)"
+    ]
+  },
+  {
+    "dia_mes": "25/12",
+    "descricao": [
+      "Natal"
+    ]
+  },
+  {
+    "dia_mes": "26/12",
+    "descricao": [
+      "Dia da Lembrança",
+      "Dia de Santo Estêvão (tradicionalmente)"
+    ]
+  },
+  {
+    "dia_mes": "27/12",
+    "descricao": [
+      "Criação do Departamento de Imprensa e Propaganda – DIP (1939)"
+    ]
+  },
+  {
+    "dia_mes": "28/12",
+    "descricao": [
+      "Dia do Salva‑vidas",
+      "Dia da Marinha Mercante"
+    ]
+  },
+  {
+    "dia_mes": "29/12",
+    "descricao": [
+      "Dia de São Tomás Becket (festa litúrgica católica)",
+      "Solenidade da Sagrada Família (igreja católica, data móvel)",
+      "Dia Internacional da Biodiversidade",
+      "Festa dos Santos Inocentes (ortodoxia)",
+      "Pós-festa da Natividade do Senhor (ortodoxia)",
+      "Eventos litúrgicos diversos (múltiplos mártires ortodoxos)"
+    ]
+  },
+  {
+    "dia_mes": "30/12",
+    "descricao": [
+      "Criação do Vale do Aço (1998)"
+    ]
+  },
+  {
+    "dia_mes": "31/12",
+    "descricao": [
+      "Réveillon",
+      "Dia de São Silvestre"
+    ]
+  }
+]
